@@ -76,7 +76,3 @@ def main_header_style():
     main_header.alignment = Alignment(horizontal="center")
     return main_header
 
-
-if __name__ == "__main__":
-    print("This is running as a standalone")
-    DataProcessor("sample.vcf").start_process()
