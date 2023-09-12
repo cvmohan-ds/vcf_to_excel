@@ -18,7 +18,7 @@ Pyvcf is currently not being maintained actively. cvmvcf package helps those who
 ### Thats it run the code...
 
 ## Example: 
-say you want to run your own vcf and your folder is in 
+say you want to run your own vcf and your code is in 
 ```sh 
 C:\Users\sam\vcf_to_excel
 ```
